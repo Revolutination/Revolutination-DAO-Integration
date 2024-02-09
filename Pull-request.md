@@ -9,7 +9,7 @@
    Clone your forked repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/repository.git
+   git clone https://github.com/Revolutination/Revolutination-Dao-Integration.git
    ```
 
 3. **Create a New Branch:**
