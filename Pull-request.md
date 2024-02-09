@@ -1,4 +1,4 @@
-Certainly! Below is an example of how you might create a pull request (PR) for a Git repository:
+ 
 
 1. **Fork the Repository:**
 
